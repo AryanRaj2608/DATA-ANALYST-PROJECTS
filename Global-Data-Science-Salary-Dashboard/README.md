@@ -57,4 +57,3 @@ Open the notebooks in numerical order using Jupyter Lab or VS Code:
 - **Advanced Visualizations**: Created 10+ exploratory visualizations using Matplotlib and Seaborn to identify key salary drivers, including experience level and remote work trends.
 - **Dashboard Readiness**: Processed and optimized the final dataset for Power BI, reducing dimensionality by 30% and standardizing currency metrics for accurate KPI tracking.
 
-
