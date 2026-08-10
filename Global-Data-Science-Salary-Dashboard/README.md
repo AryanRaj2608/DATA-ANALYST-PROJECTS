@@ -48,12 +48,5 @@ Open the notebooks in numerical order using Jupyter Lab or VS Code:
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook, Power BI
 
-## 💼 Resume / Portfolio Points
-*Copy-paste these bullet points into your resume or LinkedIn project section:*
 
-**Project: Job Market & Salary Analysis Dashboard (India + Global)**
-- **End-to-End Analysis**: Designed and implemented a complete data pipeline using Python (Pandas) to analyze 9,000+ data science job postings, performing data cleaning, duplicate removal, and feature engineering.
-- **Global vs. Local Insights**: Engineered custom location grouping logic to conduct a comparative analysis of Indian vs. Global salaries, revealing a [X]% variation in compensation for equivalent roles.
-- **Advanced Visualizations**: Created 10+ exploratory visualizations using Matplotlib and Seaborn to identify key salary drivers, including experience level and remote work trends.
-- **Dashboard Readiness**: Processed and optimized the final dataset for Power BI, reducing dimensionality by 30% and standardizing currency metrics for accurate KPI tracking.
 
